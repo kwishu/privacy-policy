@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4GS42868TL.com.getspotline.Spotline",
+        "paths": ["/spots/*", "/trips/*", "/reset-password"]
+      }
+    ]
+  }
+}
