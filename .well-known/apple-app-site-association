@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "4GS42868TL.com.getspotline.Spotline",
+        "appID": "4GS42868TL.com.getspotline.spotline",
         "paths": ["/spots/*", "/trips/*", "/reset-password"]
       }
     ]
